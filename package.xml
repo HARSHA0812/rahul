@@ -3,7 +3,7 @@
     <types>
      	<members>Account</members>
 		<members>Contact</members>
-        <name>customfields</name>
+        <name>CustomObject</name>
     </types>
     <version>57.0</version>
 </Package>
